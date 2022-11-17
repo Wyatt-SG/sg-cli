@@ -2,7 +2,7 @@
   "name": "personal-cli",
   "type": "module",
   "version": "1.0.0",
-  "description": "A personal CLI to automate my day to day common tasks",
+  "description": "My personal CLI to automate my day to day common tasks",
   "main": "cli.js",
   "author": "Wyatt Schulte",
   "license": "MIT",
