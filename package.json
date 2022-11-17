@@ -1,0 +1,17 @@
+{
+  "name": "personal-cli",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "A personal CLI to automate my day to day common tasks",
+  "main": "cli.js",
+  "author": "Wyatt Schulte",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^9.4.1",
+    "execa": "^6.1.0",
+    "yarn": "^1.22.19"
+  },
+  "bin": {
+    "sg": "cli.js"
+  }
+}
