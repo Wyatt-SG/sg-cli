@@ -1,6 +1,6 @@
 import { exec } from 'child_process'
 
-const whopBiz = async () => {
+const whopBiz = () => {
     exec('yarn turbo run dev --filter biz...')
 }
 
